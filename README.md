@@ -38,11 +38,12 @@ For macOS users higher than 10.13.6 (Mojave and up)
 
 Made with Pure Data and Camomile.
 
-![GUI](https://raw.githubusercontent.com/MikeMorenoAudio/LIRA-8/master/GUI.png "GUI")
+![GUI](GUI.png "GUI")
 
-### Author
+### Authors
 
 - [Mike Moreno DSP](https://github.com/MikeMorenoDSP)
+- Farvardin (added Akai controller and fine tuning)
 
 ### Credits
 
