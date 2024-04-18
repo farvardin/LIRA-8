@@ -43,7 +43,7 @@ Made with Pure Data and Camomile.
 ### Authors
 
 - [Mike Moreno DSP](https://github.com/MikeMorenoDSP)
-- Farvardin (added Akai controller and fine tuning)
+- Farvardin (added Akai controller and tuning visuals)
 
 ### Credits
 
