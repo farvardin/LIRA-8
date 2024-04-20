@@ -16,8 +16,7 @@ backup()
 
 run()
 {
-	#puredata _LIRA-8.pd
-	puredata lira-8_eric_akai_midimix.pd
+	puredata _LIRA-8.pd
 }
 
 
